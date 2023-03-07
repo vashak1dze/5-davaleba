@@ -1,0 +1,258 @@
+.main-nav {
+  display: flex;
+  width: 1919.79px;
+  height: 191.72px;
+}
+
+.logo img {
+  margin-top: 69px;
+  margin-left: 130px;
+}
+
+.main-nav h1 {
+  font-weight: 700px;
+  font-size: 38px;
+  margin-top: 74.36px;
+  margin-left: 5.79px;
+}
+
+.main-nav ul {
+  display: flex;
+  list-style-type: none;
+  margin-top: 68px;
+  margin-left: 100.79px;
+  font-size: 20px;
+}
+
+.main-nav li {
+  margin: 20px;
+}
+
+.main {
+  width: 1400px;
+  height: 934px;
+}
+
+.main img {
+  width: 1400px;
+  height: 934px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.main-text h1 {
+  width: 517px;
+  height: 59px;
+  margin-left: 443px;
+  margin-top: 200px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 59px;
+}
+
+.main-text p {
+  margin-left: 443px;
+  margin-top: 28px;
+  width: 936px;
+  height: 180px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+}
+
+.add1 {
+  display: flex;
+}
+
+.add1 img {
+  margin-left: 443px;
+  border-radius: 10px;
+}
+
+.add1txt {
+  width: 537px;
+  height: 252px;
+  margin-left: 17px;
+}
+.add1txt h2 {
+  width: 142px;
+  height: 29px;
+  margin-left: 45px;
+  margin-top: 63px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+}
+
+.add1txt p {
+  margin-top: 7px;
+  margin-left: 45px;
+  width: 447px;
+  height: 90px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+}
+
+.add2 {
+  display: flex;
+  margin-top: 60px;
+  margin-left: 442px;
+}
+
+.add2txt h2 {
+  margin-left: 45px;
+  width: 209px;
+  height: 29px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+}
+
+.add2txt p {
+  margin-left: 45px;
+  margin-top: 30px;
+
+  width: 447px;
+  height: 90px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.add2 img {
+  border-radius: 10px;
+  margin-top: -10px;
+  margin-left: 30px;
+}
+
+.add3 {
+  margin-left: 443px;
+}
+
+.add3 h1 {
+  width: 517px;
+  height: 59px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+}
+
+.add3 p {
+  margin-top: 11px;
+  width: 936px;
+  height: 90px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 165.4%;
+}
+
+.wveti {
+  width: 2084px;
+  height: 300px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.wveti img {
+  border-radius: 30px;
+}
+
+.info {
+  display: flex;
+  margin-top: 70px;
+}
+
+.phone {
+  margin-left: 200px;
+  width: 285px;
+  height: 245px;
+}
+.phone h1 {
+  width: 149px;
+  height: 35px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+}
+.phone h3 {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.logo2 {
+  display: flex;
+  margin-left: 250px;
+  width: 243px;
+  height: 60px;
+}
+
+.logo2 h1 {
+  margin-left: 7px;
+  margin-top: 10px;
+  width: 149px;
+  height: 35px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 35px;
+}
+
+.qlogo p {
+  margin-left: 150px;
+  margin-top: 20px;
+  width: 543px;
+  height: 60px;
+  text-align: center;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.utility {
+  margin-left: 170px;
+}
+
+.utility h1 {
+  font-size: 38px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 35px;
+}
+
+.utility h3 {
+  margin-top: 20px;
+  font-size: 18px;
+}
